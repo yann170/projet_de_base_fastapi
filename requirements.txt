@@ -1,0 +1,17 @@
+fastapi[standard]  
+uvicorn[standard]
+sqlmodel
+psycopg2-binary
+alembic
+python-dotenv
+routeros-api==0.8.0
+pydantic>=2.7,<3 
+pydantic-settings
+pydantic[email]  
+passlib[bcrypt]
+python-jose[cryptography]
+fastapi-users[sqlmodel]
+asyncpg
+PyJWT[crypto]  
+fastapi-users-db-sqlmodel
+alembic
